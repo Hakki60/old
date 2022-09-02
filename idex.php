@@ -220,7 +220,7 @@
           
         </p>
         <form role="form" method="post" id="reused_form">
-          <form action="contact.php" method="post"></form>
+          
             <div class="row g-3">
               <div class="col-md-6">
                 <div class="form-floating">
