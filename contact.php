@@ -34,7 +34,7 @@ if($_POST) {
    $message .= "Company: " . $company . "<br />";
    $message .= "Message: <br />";
    $message .= nl2br($contact_message);
-   $message .= "<br /> ----- <br /> This email was sent from your site " . url() . " contact form. <br />";
+   $message .= "<br /> ----- <br /> This email was sent from your site " . url(https://github.com/Hakki60/Hbconstruction60) . " contact form. <br />";
 
    // Set From: header
    $from =  $name . " <" . $email . ">";
